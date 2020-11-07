@@ -1,16 +1,22 @@
-# sounds_app
 
-A simple Flutter application.
+# Sounds App
 
-## Getting Started
+## Goal
 
-This project is a starting point for a Flutter application.
+In this project, I dived more into Dart programming concepts and learned how to use open source Flutter packages. 
+By the end of this project, I became comfortable using Flutter packages and building repeated widgets.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What you I created
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I made an app that plays short movie sounds based on the occasion. 
+
+[![Finished App](https://imgur.com/YgawHLP.gif)](https://www.youtube.com/watch?v=uC_vKTUnhtA)
+
+## What I learned
+
+- How to incorporate open source libraries of code into your project using Flutter Packages.
+- How to play sound on both iOS and Android.
+- How to generate repeated user interface Widgets.
+- How to use Dart functions that can take input arguments as well as return an output.
+- Dart arrow syntax for writing one line functions.
