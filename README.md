@@ -7,7 +7,7 @@ In this project, I dived more into Dart programming concepts and learned how to 
 By the end of this project, I became comfortable using Flutter packages and building repeated widgets.
 
 
-## What you I created
+## What I created
 
 I made an app that plays short movie sounds based on the occasion. 
 
